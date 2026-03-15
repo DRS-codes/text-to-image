@@ -149,60 +149,6 @@ Pull requests are welcome! For major changes, please open an issue first.
 If you found this project useful, consider giving it a ⭐ on GitHub.
 
 
----
-
-# 📸 Images You Should Include in the Repo
-
-Create a folder:
-
-
-images/
-
-
-### 1️⃣ Chat UI Screenshot
-
-File:
-
-
-images/chat_ui.png
-
-
-Take a screenshot of:
-
-
-User: generate a rainforest animal scene
-
-Assistant:
-[generated image]
-
-
----
-
-### 2️⃣ Generated Image Example
-
-Use the image you uploaded:
-
-
-images/generated_image.png
-
-
-This one with:
-
-- elephant
-- deer
-- rainforest
-
-Perfect demo image.
-
----
-
-### 3️⃣ (Optional but recommended) Architecture Diagram
-
-Create:
-
-
-images/architecture.png
-
 
 Diagram:
 
