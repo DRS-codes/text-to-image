@@ -44,7 +44,7 @@ Display in Streamlit UI
 ## 🖼️ Demo
 
 ### Chat Interface
-![Chat interface](images/chat_ui.png.png)
+![Chat interface](images/chat_ui.png)
 
 ### Generated Image Example
 ![Generated Image](images/generated.png)
